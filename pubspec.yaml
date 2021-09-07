@@ -1,0 +1,22 @@
+name: muhammad
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  awesome_notifications: ^0.0.6+10
+  image_picker: ^0.8.4
+  dio: ^4.0.0
+  firebase_core: ^1.6.0
+  firebase_messaging: ^10.0.6
+  shared_preferences: ^2.0.7
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
